@@ -1,6 +1,6 @@
 # Curso Implementação em Big Data
 ## Exercícios e conteúdo passado em sala de aula
-Professor Jean Justino &nbsp;
+Professor Jean Justino
 Turma: IMPBG 2404SG
 
 Início: 13/07/2024  
